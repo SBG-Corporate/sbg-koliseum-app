@@ -1,0 +1,7 @@
+services:
+  app:
+    container_name: app
+    restart: always
+    build: ./
+    ports:
+      - "4004:80"

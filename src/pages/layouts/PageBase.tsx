@@ -5,9 +5,9 @@ import { useState } from 'react'
 import { Dialog, DialogBackdrop, DialogPanel, TransitionChild } from '@headlessui/react'
 import {
   Bars3Icon,
-  CalendarIcon,
-  ChartPieIcon,
-  DocumentDuplicateIcon,
+  // CalendarIcon,
+  // ChartPieIcon,
+  // DocumentDuplicateIcon,
   FolderIcon,
   HomeIcon,
   UsersIcon,
