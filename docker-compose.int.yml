@@ -1,7 +1,7 @@
 services:
-  sbg-koliseum-landing:
-    container_name: sbg-koliseum-landing
+  sbg-koliseum-app:
+    container_name: sbg-koliseum-app
     restart: always
     build: ./
     ports:
-      - "4002:80"
+      - "4004:80"

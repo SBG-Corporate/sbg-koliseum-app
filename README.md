@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# SBG-Koliseum-APP
+
+La informacion de las fronteras entre pueblos sale de aqui: https://github.com/simp37/GeoJson_SPAIN/blob/master/Spain/spain.geojson
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
